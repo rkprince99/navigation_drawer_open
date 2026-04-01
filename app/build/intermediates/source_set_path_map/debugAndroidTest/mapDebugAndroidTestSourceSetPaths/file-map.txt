@@ -1,0 +1,4 @@
+com.prince.navigationdrawer.test.app-androidTest-0 G:\prince_client\navigation drawer\app\build\generated\res\resValues\androidTest\debug
+com.prince.navigationdrawer.test.app-mergeDebugAndroidTestResources-1 G:\prince_client\navigation drawer\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.prince.navigationdrawer.test.app-mergeDebugAndroidTestResources-2 G:\prince_client\navigation drawer\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.prince.navigationdrawer.test.app-debugAndroidTest-3 G:\prince_client\navigation drawer\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

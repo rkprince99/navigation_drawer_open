@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent">#B9C3F7</color>
+    <color name="color_primary">#4A4A50</color>
+    <color name="color_primary_dark">#3E3E44</color>
+    <color name="content_bg">#FFFFFF</color>
+    <color name="content_overlay">#99000000</color>
+    <color name="content_text">#1E1E24</color>
+    <color name="drawer_bg">#FFFFFF</color>
+    <color name="header_circle">#FFFFFF</color>
+    <color name="nav_item_checked_bg">#AEB9F0</color>
+    <color name="nav_item_checked_text">#1A1A1F</color>
+    <color name="nav_item_text">#2B2B33</color>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <style name="ShapeAppearance.NavigationDrawer.Item" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">18dp</item>
+    </style>
+    <style name="TextAppearance.NavigationDrawer.Item" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/nav_item_text</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Theme.NavigationDrawer" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/content_bg</item>
+        <item name="colorPrimaryVariant">@color/content_bg</item>
+        <item name="colorOnPrimary">@color/content_text</item>
+        <item name="colorSecondary">@color/color_accent</item>
+        <item name="android:statusBarColor">@color/content_bg</item>
+        <item name="android:navigationBarColor">@color/content_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="ThemeOverlay.NavigationDrawer.Toolbar" parent="ThemeOverlay.MaterialComponents.Light">
+        <item name="colorOnPrimary">@color/content_text</item>
+    </style>
+</resources>

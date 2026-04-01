@@ -1,0 +1,40 @@
+com.prince.navigationdrawer.app-emoji2-1.3.0-0 C:\Users\user\.gradle\caches\8.13\transforms\009c43cdfce37ced51f5d8b1c8ca0131\transformed\emoji2-1.3.0\res
+com.prince.navigationdrawer.app-activity-ktx-1.9.2-1 C:\Users\user\.gradle\caches\8.13\transforms\050bffa86ba423384a6e2479f1c84038\transformed\activity-ktx-1.9.2\res
+com.prince.navigationdrawer.app-lifecycle-livedata-ktx-2.8.6-2 C:\Users\user\.gradle\caches\8.13\transforms\065f7457f72cea0a5eb3a2178f18bc12\transformed\lifecycle-livedata-ktx-2.8.6\res
+com.prince.navigationdrawer.app-viewpager2-1.0.0-3 C:\Users\user\.gradle\caches\8.13\transforms\09272b8001b9b08d784793aadf5d4635\transformed\viewpager2-1.0.0\res
+com.prince.navigationdrawer.app-appcompat-1.7.0-4 C:\Users\user\.gradle\caches\8.13\transforms\0c236863d6d5aef2be5a7e8ffa6adf04\transformed\appcompat-1.7.0\res
+com.prince.navigationdrawer.app-constraintlayout-2.1.4-5 C:\Users\user\.gradle\caches\8.13\transforms\0cc15e779b1ccb412334cc2165d2ff1e\transformed\constraintlayout-2.1.4\res
+com.prince.navigationdrawer.app-profileinstaller-1.3.1-6 C:\Users\user\.gradle\caches\8.13\transforms\108206ffa71850e99edabe291fdf8922\transformed\profileinstaller-1.3.1\res
+com.prince.navigationdrawer.app-appcompat-resources-1.7.0-7 C:\Users\user\.gradle\caches\8.13\transforms\17dc96111308d15290050b356720c8f2\transformed\appcompat-resources-1.7.0\res
+com.prince.navigationdrawer.app-activity-1.9.2-8 C:\Users\user\.gradle\caches\8.13\transforms\1e48b5c133f64e2d9cd2ffcc7ff01c14\transformed\activity-1.9.2\res
+com.prince.navigationdrawer.app-lifecycle-livedata-core-ktx-2.8.6-9 C:\Users\user\.gradle\caches\8.13\transforms\23cadf5bff549c3a44b144fca4d5721f\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.prince.navigationdrawer.app-cardview-1.0.0-10 C:\Users\user\.gradle\caches\8.13\transforms\24ab2a73e651b5e15ef80a4ff252d2df\transformed\cardview-1.0.0\res
+com.prince.navigationdrawer.app-fragment-1.5.4-11 C:\Users\user\.gradle\caches\8.13\transforms\289cce1a44290c2603c5079b9609bbb5\transformed\fragment-1.5.4\res
+com.prince.navigationdrawer.app-savedstate-1.2.1-12 C:\Users\user\.gradle\caches\8.13\transforms\308368d8c83389a761f90e2d5405f954\transformed\savedstate-1.2.1\res
+com.prince.navigationdrawer.app-lifecycle-runtime-ktx-release-13 C:\Users\user\.gradle\caches\8.13\transforms\3f20bb86e5c35831420e078582d7262a\transformed\lifecycle-runtime-ktx-release\res
+com.prince.navigationdrawer.app-lifecycle-viewmodel-release-14 C:\Users\user\.gradle\caches\8.13\transforms\42f5a1fb765a5236ae9f8d53ee4b3723\transformed\lifecycle-viewmodel-release\res
+com.prince.navigationdrawer.app-lifecycle-livedata-core-2.8.6-15 C:\Users\user\.gradle\caches\8.13\transforms\566c7f86c3c84e1052cb95072bd2559d\transformed\lifecycle-livedata-core-2.8.6\res
+com.prince.navigationdrawer.app-annotation-experimental-1.4.0-16 C:\Users\user\.gradle\caches\8.13\transforms\64905079aa715a15f16d8ca40afa5dd6\transformed\annotation-experimental-1.4.0\res
+com.prince.navigationdrawer.app-core-1.13.1-17 C:\Users\user\.gradle\caches\8.13\transforms\691387b10907084b4f52118d6d27eafe\transformed\core-1.13.1\res
+com.prince.navigationdrawer.app-lifecycle-viewmodel-ktx-2.8.6-18 C:\Users\user\.gradle\caches\8.13\transforms\6f5aecb7c629a03f1111fa7c6e274646\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.prince.navigationdrawer.app-drawerlayout-1.1.1-19 C:\Users\user\.gradle\caches\8.13\transforms\73f1219254cbdd0b8d676915027bd46e\transformed\drawerlayout-1.1.1\res
+com.prince.navigationdrawer.app-lifecycle-process-2.8.6-20 C:\Users\user\.gradle\caches\8.13\transforms\8f27b741ed0d389ce0272911f22679ef\transformed\lifecycle-process-2.8.6\res
+com.prince.navigationdrawer.app-core-runtime-2.2.0-21 C:\Users\user\.gradle\caches\8.13\transforms\92eaefd26541288625e1052fd74bb6c2\transformed\core-runtime-2.2.0\res
+com.prince.navigationdrawer.app-savedstate-ktx-1.2.1-22 C:\Users\user\.gradle\caches\8.13\transforms\9b991da3160f3f2ee254755b1cf8e5b8\transformed\savedstate-ktx-1.2.1\res
+com.prince.navigationdrawer.app-recyclerview-1.1.0-23 C:\Users\user\.gradle\caches\8.13\transforms\ad05232f9ab8ab1cb5c8c8530e8bf8fc\transformed\recyclerview-1.1.0\res
+com.prince.navigationdrawer.app-coordinatorlayout-1.1.0-24 C:\Users\user\.gradle\caches\8.13\transforms\bbf6920d3a999068077503222e394d7f\transformed\coordinatorlayout-1.1.0\res
+com.prince.navigationdrawer.app-material-1.12.0-25 C:\Users\user\.gradle\caches\8.13\transforms\c0025992e77ffbd2349ec3696ba37230\transformed\material-1.12.0\res
+com.prince.navigationdrawer.app-lifecycle-viewmodel-savedstate-2.8.6-26 C:\Users\user\.gradle\caches\8.13\transforms\da57f1fc945ddf35e108f1c4272684a8\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.prince.navigationdrawer.app-startup-runtime-1.1.1-27 C:\Users\user\.gradle\caches\8.13\transforms\ddbb263339a3a2cb5fd7ca1aba20ec6c\transformed\startup-runtime-1.1.1\res
+com.prince.navigationdrawer.app-lifecycle-runtime-release-28 C:\Users\user\.gradle\caches\8.13\transforms\e90c3d53775128ea52c4da49b9905e0b\transformed\lifecycle-runtime-release\res
+com.prince.navigationdrawer.app-emoji2-views-helper-1.3.0-29 C:\Users\user\.gradle\caches\8.13\transforms\ea0249e456253cfbd9e45906c56d86ef\transformed\emoji2-views-helper-1.3.0\res
+com.prince.navigationdrawer.app-core-ktx-1.13.1-30 C:\Users\user\.gradle\caches\8.13\transforms\eca677035cd5c7119eaec487d0281ec2\transformed\core-ktx-1.13.1\res
+com.prince.navigationdrawer.app-lifecycle-livedata-2.8.6-31 C:\Users\user\.gradle\caches\8.13\transforms\edb5ba91c4206a613d8e8a7a7f8a453e\transformed\lifecycle-livedata-2.8.6\res
+com.prince.navigationdrawer.app-transition-1.5.0-32 C:\Users\user\.gradle\caches\8.13\transforms\f252ab448ddd03637995e15464c03bd2\transformed\transition-1.5.0\res
+com.prince.navigationdrawer.app-pngs-33 G:\prince_client\navigation drawer\app\build\generated\res\pngs\debug
+com.prince.navigationdrawer.app-resValues-34 G:\prince_client\navigation drawer\app\build\generated\res\resValues\debug
+com.prince.navigationdrawer.app-packageDebugResources-35 G:\prince_client\navigation drawer\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.prince.navigationdrawer.app-packageDebugResources-36 G:\prince_client\navigation drawer\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.prince.navigationdrawer.app-debug-37 G:\prince_client\navigation drawer\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.prince.navigationdrawer.app-debug-38 G:\prince_client\navigation drawer\app\src\debug\res
+com.prince.navigationdrawer.app-main-39 G:\prince_client\navigation drawer\app\src\main\res

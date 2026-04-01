@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.13\\com.prince.navigationdrawer.app-mergeDebugResources-36:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.13\\com.prince.navigationdrawer.app-main-39:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.13\\com.prince.navigationdrawer.app-mergeDebugResources-36:\\layout\\fragment_simple.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.13\\com.prince.navigationdrawer.app-main-39:\\layout\\fragment_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.13\\com.prince.navigationdrawer.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.13\\com.prince.navigationdrawer.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.prince.navigationdrawer.app-mergeDebugResources-36:/layout/nav_header.xml",
+        "source": "com.prince.navigationdrawer.app-main-39:/layout/nav_header.xml"
+    }
+]
